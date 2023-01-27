@@ -9,62 +9,9 @@ For using this break out with Raspberry Pi follow the below link:
 https://github.com/sbcshop/UHF-HAT-for-RaspberryPi-Software
 
 
-###
-# UHF-HAT-for-RaspberryPi
 
-<img src = "https://github.com/sbcshop/UHF-HAT-for-RaspberryPi/blob/main/images/img0.png" />
-
-UHF HAT for Raspberry Pi is an advanced and compact "Ultra High Frequency" RFID reader that consists of powerful RFID technology designing for a broad range of applications in the defense, healthcare system, banks, offices etc. UHF HAT for Raspberry Pi has an onboard  ThingMagic® M6E Nano UHF RFID Reader that is JADAK’s smallest embeddable module with ultra-low power consumption and tiny form factor.  This RFID reader is ideal for battery operated, low-cost, small form factor portable devices.
-
-<img src = "https://github.com/sbcshop/UHF-HAT-for-RaspberryPi/blob/main/images/img5.png" />
-
-## Further information about M6E-NANO, we attach datasheet of M6E-NANO
-
-### Enable Serial Port for this type ```sudo raspi-config``` in command promt, then go to Interface Options -> Serial Port - > Would you like a login shell to be accessible over ? type "**No**" then Would you like the serial port hardware to be enabled? type "**Yes**"
-         
-## How to enable the external UFL port in the UHF HAT
-<img src = "https://github.com/sbcshop/UHF-HAT-for-RaspberryPi/blob/main/images/img10.png" />
-
-## Run Using Python (Raspberry Pi) Run below command one by one
-
-First, make sure you have the required packages
-
- ```pip install Pillow ```
-
-```sudo apt-get install unzip patch xsltproc gcc libreadline-dev python-dev python-setuptools```
-
-Install Mercury API, for this you need to download below repository
-
-https://github.com/gotthardp/python-mercuryapi
-
- or 
+ ## Run Using Universal Assistant(Via Micro USB)
  
-```git clone https://github.com/gotthardp/python-mercuryapi.git```
-
-```cd python-mercuryapi```
-
-Give permission to all files
-
-```sudo chmod 777 *```
-
-```make```
-
-The make command will automatically determine which Python version is installed. If both 2.x and 3.x are installed, the 3.x takes precedence. To build and install 2.x you need to explicitly specify the Python interpreter to use:
-
-```sudo make PYTHON=python```
-
-Then, install the module by running
-
-```sudo make install```
-
-which is a shortcut to running
-
-```sudo python setup.py build install```
-
-#### make sure jumper wire is sort between RX-TX0 and TX-RX1
-<img src = "https://github.com/sbcshop/UHF-HAT-for-RaspberryPi/blob/main/images/img10.jpg" />
-
-## Run Using Universal Assistant(Through Micro USB)
 **Download Universal Assistant Software From Below Link, And Install The Software**
 
 https://www.jadaktech.com/resources/all-document-libraries/#Universal_Reader_Assistant
@@ -122,13 +69,6 @@ Control onboard GPIO pins of UHF HAT
  * attendance.py  - run this file to apply attendance 
  * library_management.py - run this file to do library management
  * smart_shopping.py - run this file to do smart shopping
-
-## Youtube
-https://www.youtube.com/watch?v=vQsGz0Gdf00&t=9s
-
-## Getting started video or How to setup UHF HAT 
-
-https://www.youtube.com/watch?v=saSQZn1sG-Y&ab_channel=SBComponentsLtd
 
 
 ## Documentation
