@@ -5,6 +5,8 @@ UHF MAX Breakout is an advance and compact "Ultra High Frequency" RFID reader th
 
 ## Using With Pi
 
+<img src = "" />
+
 For using this break out with Raspberry Pi follow the below link:
 https://github.com/sbcshop/UHF-HAT-for-RaspberryPi-Software
 
@@ -20,7 +22,7 @@ https://www.jadaktech.com/resources/all-document-libraries/#Universal_Reader_Ass
 
 **Step 1 - Open the software, Connect UHF HAT To computer via micro usb cable ( make sure jumper wire is sort between U_RX-TX0 and U_TX-RX1 ) as shown in picture, then click on refresh button to refresh the serial port**
 
-<img src = "https://github.com/sbcshop/UHF-HAT-for-RaspberryPi/blob/main/images/img9.jpg" />
+<img src = "" />
 
 <img src = "https://github.com/sbcshop/UHF-HAT-for-RaspberryPi/blob/main/images/img.JPG" />
 
