@@ -44,7 +44,7 @@ https://www.jadaktech.com/resources/all-document-libraries/#Universal_Reader_Ass
 <img src = "https://github.com/sbcshop/UHF-HAT-for-RaspberryPi/blob/main/images/img7.JPG" />
 <img src = "https://github.com/sbcshop/UHF-HAT-for-RaspberryPi/blob/main/images/img8.JPG" />
 
-## Buzzer is connected to GPIO 17 Pin of raspberry pi
+***Note -*** Buzzer is connected to GPIO 17 Pin of raspberry pi
 
 
 ## Documentation
