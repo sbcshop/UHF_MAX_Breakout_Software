@@ -11,7 +11,9 @@ https://github.com/sbcshop/UHF-HAT-for-RaspberryPi-Software
 
 
  ## Run Using Universal Assistant(Via Micro USB)
+ For using UHF MAX Breakout with Via Micro USB cable follow the step guide below:
  
+
 **Download Universal Assistant Software From Below Link, And Install The Software**
 
 https://www.jadaktech.com/resources/all-document-libraries/#Universal_Reader_Assistant
@@ -40,35 +42,6 @@ https://www.jadaktech.com/resources/all-document-libraries/#Universal_Reader_Ass
 <img src = "https://github.com/sbcshop/UHF-HAT-for-RaspberryPi/blob/main/images/img8.JPG" />
 
 ## Buzzer is connected to GPIO 17 Pin of raspberry pi
-
-## Example codes (raspberry pi) 
-Open Exmples directory for testing all other functionalities of UHF HAT. If the library error shows in any code file during compilation, please copy that file outside the example folder and then try to run. The names of code files and thier functions are mentioned below:
-
-To scan cards, run below file
-
-**```scan_cards.py```**  
-
-To know the temperature of module (UHF HAT), Run below file 
-
-**```read_temp.py```**
-
-To write uhf tag or change tag id, run below file
-
-**```tag_write.py```**
-
-To read read basic Perameters like antinna, power etc, run below file 
-
-**```read_basic_Perameters.py```**
-
-Control onboard GPIO pins of UHF HAT
-
-**```control_gpio_pins.py```**
-
-### Make sure before run applications which is inside application folder, copy all the application files outside the folder then run the file
-#### Inside application folder, there are three files 
- * attendance.py  - run this file to apply attendance 
- * library_management.py - run this file to do library management
- * smart_shopping.py - run this file to do smart shopping
 
 
 ## Documentation
