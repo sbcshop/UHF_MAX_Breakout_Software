@@ -7,13 +7,13 @@ UHF MAX Breakout is an advance and compact "Ultra High Frequency" RFID reader th
 
 <img src = "https://github.com/sbcshop/UHF_MAX_Breakout_Software/blob/main/images/Img2.png" />
 
-For using this break out with Raspberry Pi follow the below link:
+* For using this break out with Raspberry Pi follow the below link:
 https://github.com/sbcshop/UHF-HAT-for-RaspberryPi-Software
 
 
 
  ## Run Using Universal Assistant(Via Micro USB)
- For using UHF MAX Breakout with Via Micro USB cable follow the step guide below:
+ # For using UHF MAX Breakout Via Micro USB cable follow the step guide below:
  
 
 **Download Universal Assistant Software From Below Link, And Install The Software**
