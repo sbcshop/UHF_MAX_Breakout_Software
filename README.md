@@ -20,7 +20,7 @@ https://github.com/sbcshop/UHF-HAT-for-RaspberryPi-Software
 
 https://www.jadaktech.com/resources/all-document-libraries/#Universal_Reader_Assistant
 
-**Step 1 - Open the software, Connect UHF HAT To computer via micro usb cable ( make sure jumper wire is sort between U_RX-TX0 and U_TX-RX1 ) as shown in picture, then click on refresh button to refresh the serial port**. Jumpur should be connected as shown below, when using UHF MAX Breakout via USB:
+**Step 1 - Open the software, Connect UHF HAT To computer via micro usb cable ( make sure jumper wire is sort between U_RX-TX0 and U_TX-RX1 ) as shown in picture, then click on refresh button to refresh the serial port**. ***Jumpur*** should be connected as shown below, when using UHF MAX Breakout via USB:
 
 
 <img src = "https://github.com/sbcshop/UHF_MAX_Breakout_Software/blob/main/images/Img1.png" />
