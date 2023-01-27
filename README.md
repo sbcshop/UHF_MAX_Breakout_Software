@@ -46,7 +46,7 @@ https://www.jadaktech.com/resources/all-document-libraries/#Universal_Reader_Ass
 
 ## Documentation
 
-* [UHF HAT For RaspberryPi Hardware](https://github.com/sbcshop/UHF-HAT-for-RaspberryPi-Hardware)
+* [UHF MAX Breakout Hardware](https://github.com/sbcshop/UHF_MAX_Breakout_Hardware)
 * [Getting Started with Raspberry Pi](https://www.raspberrypi.com/documentation/computers/getting-started.html)
 * [Raspberry Pi Pico Official website](https://www.raspberrypi.com/documentation/microcontrollers/)
 * [Raspberry Pi Datasheet](https://www.raspberrypi.com/documentation/computers/compute-module.html)
