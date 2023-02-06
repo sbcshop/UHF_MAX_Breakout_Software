@@ -11,7 +11,7 @@ UHF MAX Breakout is an advance and compact "Ultra High Frequency" RFID reader th
 
 * For using this break out with Raspberry Pi follow the steps below:
 
-### Enable Serial Port for this type ```sudo raspi-config``` in command promt, then go to Interface Options -> Serial Port - > Would you like a login shell to be accessible over ? type "**No**" then Would you like the serial port hardware to be enabled? type "**Yes**"
+Enable Serial Port for this type ```sudo raspi-config``` in command promt, then go to Interface Options -> Serial Port - > Would you like a login shell to be accessible over ? type "**No**" then Would you like the serial port hardware to be enabled? type "**Yes**"
          
 ## How to enable the external UFL port in the UHF breakout
 <img src = "https://github.com/sbcshop/UHF-HAT-for-RaspberryPi/blob/main/images/img10.png" />
