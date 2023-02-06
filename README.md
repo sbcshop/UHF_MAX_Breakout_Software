@@ -9,8 +9,51 @@ UHF MAX Breakout is an advance and compact "Ultra High Frequency" RFID reader th
 
 <img src = "https://github.com/sbcshop/UHF_MAX_Breakout_Software/blob/main/images/Img2.png" />
 
-* For using this break out with Raspberry Pi follow the below link:
-https://github.com/sbcshop/UHF-HAT-for-RaspberryPi-Software
+* For using this break out with Raspberry Pi follow the steps below:
+
+### Enable Serial Port for this type ```sudo raspi-config``` in command promt, then go to Interface Options -> Serial Port - > Would you like a login shell to be accessible over ? type "**No**" then Would you like the serial port hardware to be enabled? type "**Yes**"
+         
+## How to enable the external UFL port in the UHF breakout
+<img src = "https://github.com/sbcshop/UHF-HAT-for-RaspberryPi/blob/main/images/img10.png" />
+
+## Run Using Python (Raspberry Pi) Run below command one by one
+
+First, make sure you have the required packages
+
+ ```pip install Pillow ```
+
+```sudo apt-get install unzip patch xsltproc gcc libreadline-dev python-dev python-setuptools```
+
+Install Mercury API, for this you need to download below repository
+
+https://github.com/gotthardp/python-mercuryapi
+
+ or 
+ 
+```git clone https://github.com/gotthardp/python-mercuryapi.git```
+
+```cd python-mercuryapi```
+
+Give permission to all files
+
+```sudo chmod 777 *```
+
+```make```
+
+The make command will automatically determine which Python version is installed. If both 2.x and 3.x are installed, the 3.x takes precedence. To build and install 2.x you need to explicitly specify the Python interpreter to use:
+
+```sudo make PYTHON=python```
+
+Then, install the module by running
+
+```sudo make install```
+
+which is a shortcut to running
+
+```sudo python setup.py build install```
+
+#### make sure jumper wire is sort between RX-TX0 and TX-RX1
+<img src = "https://github.com/sbcshop/UHF-HAT-for-RaspberryPi/blob/main/images/img10.jpg" />
 
 
 
