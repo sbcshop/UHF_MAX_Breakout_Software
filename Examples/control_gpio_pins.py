@@ -1,3 +1,4 @@
+# Through example this we see,how to control M6E-NANO gpio's
 # There are 4 GPIO pins in M6E-NANO (UHF HAT)
 import mercury
 reader = mercury.Reader("tmr:///dev/ttyS0")
