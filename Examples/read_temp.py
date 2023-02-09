@@ -1,3 +1,4 @@
+# Through example this we see,internalk temperature of M6E-NANO
 '''
 region represents the regulatory region that the device will operate in. Supported values are:
 "NA", North America/FCC
