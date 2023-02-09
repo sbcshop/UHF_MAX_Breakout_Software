@@ -56,7 +56,7 @@ which is a shortcut to running
 ```sudo python setup.py build install```
 
 #### make sure jumper wire is sort between RX-TX0 and TX-RX1
-<img src = "https://github.com/sbcshop/UHF-HAT-for-RaspberryPi/blob/main/images/img10.jpg" />
+<img src = "https://github.com/sbcshop/UHF_MAX_Breakout_Software/blob/main/images/Img2.png" />
 
 
 
