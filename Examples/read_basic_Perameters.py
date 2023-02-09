@@ -1,3 +1,4 @@
+#Through example this we see,read basic perameters, like region, power etc
 '''
 region represents the regulatory region that the device will operate in. Supported values are:
 "NA", North America/FCC
