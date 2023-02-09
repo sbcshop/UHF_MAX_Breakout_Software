@@ -16,8 +16,8 @@ Enable Serial Port for this type ```sudo raspi-config``` in command promt, then 
 ## How to enable the external UFL port in the UHF breakout
 <img src = "https://github.com/sbcshop/UHF_MAX_Breakout_Software/blob/main/images/img011.png" />
 
-### Sort J1 to use Onboard anteena(by default J1 is sort)
-### Sort J2 to use External anteena (UFL connector)
+Sort J1 to use Onboard anteena(by default J1 is sort)
+Sort J2 to use External anteena (UFL connector)
 
 ## Run Using Python (Raspberry Pi) Run below command one by one
 
