@@ -1,4 +1,5 @@
 #!/usr/bin/python
+# Basic exaple to read uhf cards
 import spidev as SPI
 import lcdLib_1inch14
 from PIL import Image,ImageDraw,ImageFont
