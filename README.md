@@ -68,6 +68,9 @@ which is a shortcut to running
 
 https://www.jadaktech.com/resources/all-document-libraries/#Universal_Reader_Assistant
 
+## Universal Reader Assistance
+https://www.jadaktech.com/product/thingmagic-universal-reader-assistant/
+
 **Step 1 - Open the software, Connect UHF HAT To computer via micro usb cable ( make sure jumper wire is sort between U_RX-TX0 and U_TX-RX1 ) as shown in picture, then click on refresh button to refresh the serial port**. ***Jumpur*** should be connected as shown below, when using UHF MAX Breakout via USB:
 
 
